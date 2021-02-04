@@ -4,7 +4,7 @@
 // 1. while
 $x = 0;
 while($x <= 5){
-    echo "Hello Fiki!";
+    echo "Hello Fiki! <br/>";
     $x++;
 }
 
@@ -12,7 +12,7 @@ echo "<br/>";
 
 // 2. do while
 do{
-    echo "Hello Fiki";
+    echo "Hello Fiki <br/>";
     $x++;
 }while($x <= 5);
 
@@ -20,7 +20,7 @@ echo "<br/>";
 
 // 3. for loop
 for($i=0;$i<=5;$i++){
-    echo "Hello Fiki";
+    echo "Hello Fiki<br/>";
 }
 
 echo "<br/>";
